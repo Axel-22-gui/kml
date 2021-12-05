@@ -1,0 +1,3737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>ciclovia</name>
+    <description/>
+    <Style id="line-F9A825-2744-normal">
+      <LineStyle>
+        <color>ff25a8f9</color>
+        <width>2.744</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-F9A825-2744-highlight">
+      <LineStyle>
+        <color>ff25a8f9</color>
+        <width>4.116</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-F9A825-2744">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-F9A825-2744-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-F9A825-2744-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-F9A825-2938-normal">
+      <LineStyle>
+        <color>ff25a8f9</color>
+        <width>2.938</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-F9A825-2938-highlight">
+      <LineStyle>
+        <color>ff25a8f9</color>
+        <width>4.407</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-F9A825-2938">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-F9A825-2938-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-F9A825-2938-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-F9A825-3325-normal">
+      <LineStyle>
+        <color>ff25a8f9</color>
+        <width>3.325</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-F9A825-3325-highlight">
+      <LineStyle>
+        <color>ff25a8f9</color>
+        <width>4.9875</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-F9A825-3325">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-F9A825-3325-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-F9A825-3325-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-F9A825-3713-normal">
+      <LineStyle>
+        <color>ff25a8f9</color>
+        <width>3.713</width>
+      </LineStyle>
+    </Style>
+    <Style id="line-F9A825-3713-highlight">
+      <LineStyle>
+        <color>ff25a8f9</color>
+        <width>5.5695</width>
+      </LineStyle>
+    </Style>
+    <StyleMap id="line-F9A825-3713">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-F9A825-3713-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-F9A825-3713-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>ZONA NORTE</name>
+      <Placemark>
+        <name>Av. Fernando Belaúnde: Wilfredo Valdiviezo - Panamericana</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2744</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8585411,-6.7652923,0
+            -79.8585247,-6.7652843,0
+            -79.8581894,-6.7651165,0
+            -79.8580409,-6.765043,0
+            -79.8578116,-6.7649294,0
+            -79.8576989,-6.7648728,0
+            -79.8575383,-6.7647982,0
+            -79.8575279,-6.7647929,0
+            -79.8574673,-6.7647716,0
+            -79.8574367,-6.7647606,0
+            -79.8573985,-6.764753,0
+            -79.8573516,-6.7647493,0
+            -79.85731,-6.764749,0
+            -79.8572128,-6.7647573,0
+            -79.8570093,-6.7647776,0
+            -79.8568326,-6.7647952,0
+            -79.8566542,-6.7648126,0
+            -79.8563842,-6.7648382,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Fernando Belaúnde: Panamericana - Wilfredo Valdiviezo</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2744</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8584683,-6.7654257,0
+            -79.8581199,-6.7652447,0
+            -79.8579027,-6.7651335,0
+            -79.8576676,-6.7650146,0
+            -79.8575308,-6.764946,0
+            -79.857436,-6.7649047,0
+            -79.857382,-6.7648901,0
+            -79.857332,-6.7648851,0
+            -79.8571684,-6.7648878,0
+            -79.8569454,-6.7649081,0
+            -79.8567302,-6.764929,0
+            -79.8565595,-6.7649463,0
+            -79.8564059,-6.7649621,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Fernando Belaúnde: Eduardo Ordoñez - Wilfredo Valdiviezo</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2744</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8563647,-6.7648402,0
+            -79.8560414,-6.7648706,0
+            -79.855685,-6.7649029,0
+            -79.8553286,-6.7649392,0
+            -79.8550447,-6.7649678,0
+            -79.8547164,-6.7650038,0
+            -79.8544522,-6.7650324,0
+            -79.8541788,-6.7650608,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Fernando Belaúnde: Wilfredo Valdiviezo - Eduardo Ordoñez</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2744</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8563858,-6.7649631,0
+            -79.8563222,-6.7649674,0
+            -79.8558689,-6.765012,0
+            -79.8555444,-6.7650417,0
+            -79.8552882,-6.7650686,0
+            -79.8551434,-6.7650836,0
+            -79.8550083,-6.7650989,0
+            -79.854845,-6.7651149,0
+            -79.8546797,-6.7651319,0
+            -79.8545144,-6.7651489,0
+            -79.8542469,-6.7651765,0
+            -79.8541928,-6.7651826,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Fernando Belaúnde: Óvalo - Eduardo Ordoñez</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2744</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.85416,-6.7650624,0
+            -79.8541417,-6.7650648,0
+            -79.8539047,-6.7650947,0
+            -79.8537129,-6.7651117,0
+            -79.8535064,-6.7651304,0
+            -79.8532828,-6.765149,0
+            -79.8531621,-6.7651597,0
+            -79.853087,-6.7651593,0
+            -79.8528584,-6.7651381,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Fernando Belaúnde: Eduardo Ordoñez - Óvalo</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2744</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8541737,-6.7651839,0
+            -79.8539751,-6.7652082,0
+            -79.8538014,-6.7652285,0
+            -79.853622,-6.7652488,0
+            -79.8534202,-6.7652715,0
+            -79.8532422,-6.7652921,0
+            -79.8531875,-6.7652988,0
+            -79.8531211,-6.7653038,0
+            -79.8530672,-6.7653078,0
+            -79.8530226,-6.7653091,0
+            -79.852882,-6.7653048,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Óvalo: Gustavo Cornejo - Av. Fernando Belaúnde</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2744</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8528548,-6.7651199,0
+            -79.8528413,-6.7651202,0
+            -79.8528218,-6.7651199,0
+            -79.8527745,-6.7650883,0
+            -79.8527397,-6.765071,0
+            -79.8526957,-6.7650553,0
+            -79.8526458,-6.7650423,0
+            -79.8526076,-6.765039,0
+            -79.852576,-6.7650373,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Fernando Belaúnde: Elmer Faucett - Óvalo</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2744</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8524379,-6.7650696,0
+            -79.8524345,-6.7650663,0
+            -79.8522474,-6.7649651,0
+            -79.8520948,-6.7648815,0
+            -79.8519557,-6.7648053,0
+            -79.8517941,-6.7647157,0
+            -79.8517035,-6.7646643,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Fernando Belaúnde: Cruce Elmer Faucett</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2744</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8517362,-6.7648376,0
+            -79.8517288,-6.7648336,0
+            -79.8516636,-6.7647935,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Elmer Faucett: CicloParqueos - Eufemio Lora y Lora</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2744</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8517496,-6.7649842,0
+            -79.8518052,-6.7656488,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Fernando Belaúnde: Óvalo - Elmer Faucett</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2744</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8524,-6.7651945,0
+            -79.8523038,-6.7651527,0
+            -79.8522361,-6.7651231,0
+            -79.852163,-6.7650808,0
+            -79.8520614,-6.7650232,0
+            -79.8519561,-6.7649626,0
+            -79.8517734,-6.7648587,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Eufemio Lora y Lora: Loreto - Elmer Faucett</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2744</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8517708,-6.7656875,0
+            -79.8514474,-6.7657231,0
+            -79.851326,-6.7657365,0
+            -79.8511789,-6.7657504,0
+            -79.8509683,-6.7657694,0
+            -79.8508114,-6.7657821,0
+            -79.8506716,-6.7657934,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Eufemio Lora y Lora: Elmer Faucett - Loreto</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2744</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8517836,-6.7657701,0
+            -79.8515535,-6.7657947,0
+            -79.8514479,-6.7658057,0
+            -79.8513352,-6.7658177,0
+            -79.851185,-6.7658333,0
+            -79.8511317,-6.765839,0
+            -79.8510241,-6.7658523,0
+            -79.8509041,-6.765867,0
+            -79.8506807,-6.7658933,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Eufemio Lora y Lora: Ricardo Palma - Loreto</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2744</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8506535,-6.7657941,0
+            -79.8506491,-6.7657942,0
+            -79.8503966,-6.7658112,0
+            -79.8502045,-6.7658229,0
+            -79.8501793,-6.7658239,0
+            -79.8501602,-6.7658259,0
+            -79.8499654,-6.7658405,0
+            -79.8498655,-6.7658479,0
+            -79.8497649,-6.7658582,0
+            -79.8496486,-6.7658708,0
+            -79.84955,-6.7658805,0
+            -79.8494327,-6.7658928,0
+            -79.8493834,-6.7658981,0
+            -79.849311,-6.7659118,0
+            -79.8492888,-6.7659178,0
+            -79.8492494,-6.7659369,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Eufemio Lora y Lora: Loreto - Ricardo Palma</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2744</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8506616,-6.7658946,0
+            -79.8506567,-6.7658955,0
+            -79.8504311,-6.7659079,0
+            -79.8502866,-6.7659135,0
+            -79.8501884,-6.7659165,0
+            -79.8500164,-6.7659328,0
+            -79.849889,-6.7659452,0
+            -79.8497143,-6.7659621,0
+            -79.8495926,-6.7659788,0
+            -79.8494678,-6.7659974,0
+            -79.8493612,-6.7660257,0
+            -79.849308,-6.7660482,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Eufemio Lora y Lora: Pedro Ruiz - Ricardo Palma</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2744</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8491165,-6.7660298,0
+            -79.8490646,-6.7660848,0
+            -79.849034,-6.7661178,0
+            -79.8490123,-6.7661401,0
+            -79.848963,-6.766192,0
+            -79.8489268,-6.7662296,0
+            -79.8488798,-6.7662789,0
+            -79.8488242,-6.7663372,0
+            -79.848746,-6.7664198,0
+            -79.8487075,-6.7664604,0
+            -79.8486414,-6.7665203,0
+            -79.848513,-6.7666382,0
+            -79.8484413,-6.7667028,0
+            -79.848271,-6.7668562,0
+            -79.8482042,-6.7669225,0
+            -79.8481338,-6.7669917,0
+            -79.8480627,-6.7670607,0
+            -79.8479675,-6.7671529,0
+            -79.8478975,-6.7672201,0
+            -79.8478267,-6.7672871,0
+            -79.8477546,-6.7673553,0
+            -79.8476822,-6.7674219,0
+            -79.8476128,-6.7674825,0
+            -79.8474924,-6.7675897,0
+            -79.8474799,-6.7676009,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Eufemio Lora y Lora: Ricardo Palma - Pedro Ruiz</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2744</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8492121,-6.7661203,0
+            -79.8492107,-6.7661241,0
+            -79.8491396,-6.7661903,0
+            -79.8490809,-6.7662462,0
+            -79.8489753,-6.7663501,0
+            -79.8488315,-6.76649,0
+            -79.8487698,-6.7665439,0
+            -79.8486672,-6.7666341,0
+            -79.8485706,-6.7667177,0
+            -79.8485096,-6.7667779,0
+            -79.8484422,-6.7668449,0
+            -79.8483645,-6.7669214,0
+            -79.8482431,-6.7670366,0
+            -79.8481643,-6.7671119,0
+            -79.8480889,-6.7671838,0
+            -79.8480141,-6.7672541,0
+            -79.8479078,-6.7673559,0
+            -79.8477583,-6.7674968,0
+            -79.8476148,-6.7676326,0
+            -79.8475869,-6.7676625,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Eufemio Lora y Lora: Lora y Cordero - Pedro Ruiz</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2744</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8474504,-6.7676295,0
+            -79.8473949,-6.7676812,0
+            -79.847345,-6.7677274,0
+            -79.8472853,-6.767787,0
+            -79.8471582,-6.7679082,0
+            -79.8470717,-6.7679911,0
+            -79.8469691,-6.7680934,0
+            -79.8468283,-6.7682325,0
+            -79.8467311,-6.7683304,0
+            -79.8466577,-6.7684013,0
+            -79.8465061,-6.7685505,0
+            -79.8463821,-6.7686743,0
+            -79.8462999,-6.7687542,0
+            -79.8461477,-6.7688964,0
+            -79.8460183,-6.7690299,0
+            -79.8459351,-6.7691255,0
+            -79.8458034,-6.769264,0
+            -79.8456924,-6.7693889,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Eufemio Lora y Lora: Pedro Ruiz - Lora y Cordero</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2744</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8475584,-6.7676895,0
+            -79.8474506,-6.7677909,0
+            -79.8473118,-6.7679224,0
+            -79.8471385,-6.7680905,0
+            -79.8469011,-6.7683173,0
+            -79.846703,-6.7685064,0
+            -79.8465833,-6.7686262,0
+            -79.8464582,-6.7687518,0
+            -79.8463201,-6.7688909,0
+            -79.8461873,-6.7690091,0
+            -79.8460901,-6.769094,0
+            -79.8460371,-6.769146,0
+            -79.8459586,-6.7692212,0
+            -79.8459402,-6.7692395,0
+            -79.8458869,-6.7692985,0
+            -79.8457947,-6.7694169,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Fernando Belaúnde: Eufemio Lora y Lora - Elmer Faucett</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2744</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8516857,-6.7646547,0
+            -79.8514822,-6.7645511,0
+            -79.8512747,-6.7644499,0
+            -79.8509945,-6.7643103,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Fernando Belaúnde: 30 de agosto - Eufemio Lora y Lora</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2744</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.850974,-6.7642986,0
+            -79.8509695,-6.7642959,0
+            -79.8506567,-6.7641191,0
+            -79.8505792,-6.7640725,0
+            -79.8504086,-6.7639779,0
+            -79.8502102,-6.7638669,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Fernando Belaúnde: Eufemio Lora y Lora - 30 de agosto</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2744</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8508852,-6.7643695,0
+            -79.8508825,-6.7643685,0
+            -79.850676,-6.7642643,0
+            -79.8504497,-6.7641494,0
+            -79.8503478,-6.7640945,0
+            -79.8501996,-6.7640149,0
+            -79.8501086,-6.7639681,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Fernando Belaúnde: Las Violetas - 30 de agosto</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2744</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8501905,-6.7638558,0
+            -79.8498925,-6.7636938,0
+            -79.8498479,-6.7636685,0
+            -79.8496491,-6.7635783,0
+            -79.8494389,-6.7634834,0
+            -79.8492226,-6.7633865,0
+            -79.8490168,-6.7632936,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Fernando Belaúnde: Los Claveles - Las Violetas</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2744</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8489991,-6.7632853,0
+            -79.8487514,-6.7631933,0
+            -79.8485214,-6.7631124,0
+            -79.8483022,-6.7630385,0
+            -79.8482512,-6.7630201,0
+            -79.848097,-6.7629749,0
+            -79.84782,-6.7628906,0
+            -79.8475431,-6.7628137,0
+            -79.8472318,-6.7627365,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Fernando Belaúnde: 30 de agosto - Las Violetas</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2744</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8500893,-6.7639567,0
+            -79.8498764,-6.763838,0
+            -79.8496997,-6.7637395,0
+            -79.8494523,-6.763633,0
+            -79.8492659,-6.7635481,0
+            -79.8490386,-6.7634448,0
+            -79.8489685,-6.7634118,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Fernando Belaúnde: Las Violetas - Los Claveles</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2744</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8489514,-6.7634042,0
+            -79.8489487,-6.7634038,0
+            -79.8485815,-6.7632687,0
+            -79.8484159,-6.7632077,0
+            -79.8482399,-6.7631425,0
+            -79.8481172,-6.7631049,0
+            -79.847922,-6.7630449,0
+            -79.8477135,-6.76298,0
+            -79.8474922,-6.7629247,0
+            -79.8472046,-6.7628534,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Fernando Belaúnde: Elmer Faucett - Eufemio Lora y Lora</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2744</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8516458,-6.7647839,0
+            -79.8516294,-6.7647772,0
+            -79.8514239,-6.7646759,0
+            -79.8513488,-6.764631,0
+            -79.8511435,-6.7645091,0
+            -79.8509524,-6.7644045,0
+            -79.850908,-6.7643815,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>ZONA BALTA NORTE</name>
+      <Placemark>
+        <name>Av. José Balta: San José - Vicente de la Vega</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3713</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8384652,-6.7713501,0
+            -79.8384598,-6.7713218,0
+            -79.8384481,-6.7712615,0
+            -79.8384407,-6.7711869,0
+            -79.8384303,-6.7710787,0
+            -79.8384143,-6.7709126,0
+            -79.8383961,-6.7707315,0
+            -79.838379,-6.7705693,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. José Balta: Vicente de la Vega - Lora y Cordero</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3713</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8383768,-6.7705498,0
+            -79.8383642,-6.7704392,0
+            -79.8383374,-6.7702075,0
+            -79.8383163,-6.7700344,0
+            -79.8382938,-6.7698439,0
+            -79.8382774,-6.7697028,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. José Balta: Lora y Cordero - Leoncio Prado</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3713</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8382759,-6.769683,0
+            -79.8382641,-6.7695405,0
+            -79.838248,-6.7693454,0
+            -79.8382306,-6.7691355,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. José Balta: Leoncio Prado - Pedro Ruiz</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3713</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8382281,-6.7691167,0
+            -79.8382103,-6.7689806,0
+            -79.8381848,-6.7687921,0
+            -79.8381593,-6.768604,0
+            -79.8381419,-6.7684742,0
+            -79.8381268,-6.7682811,0
+            -79.8381204,-6.7681995,0
+            -79.8381057,-6.768013,0
+            -79.838098,-6.7679142,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. José Balta: Pedro Ruiz - Arica</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3713</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8380957,-6.7678946,0
+            -79.8380662,-6.7676335,0
+            -79.8380485,-6.7674657,0
+            -79.8380257,-6.7672523,0
+            -79.8379757,-6.7667885,0
+            -79.8379717,-6.7667549,0
+            -79.8379579,-6.7667133,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>ZONA SUR</name>
+      <Placemark>
+        <name>Av. Grau: Torres Paz - Francisco Cabrera</name>
+        <description><![CDATA[<br><br>Tipo de Línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3325</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8440353,-6.773377,0
+            -79.8441233,-6.7740169,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Grau: Francisco Cabrera - Torres Paz</name>
+        <description><![CDATA[<br><br>Tipo de Línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3325</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8439417,-6.7733904,0
+            -79.844042,-6.7740271,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Grau: Francisco Cabrera - Tacna</name>
+        <description><![CDATA[<br><br>Tipo de Línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3325</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8441262,-6.7740363,0
+            -79.84421,-6.7746379,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Grau: Tacna - Francisco Cabrera</name>
+        <description><![CDATA[<br><br>Tipo de Línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3325</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8440444,-6.7740463,0
+            -79.8441102,-6.7746601,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Grau: Tacna - Francisco Bolognesi</name>
+        <description><![CDATA[<br><br>Tipo de Línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3325</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8442114,-6.7746559,0
+            -79.8442125,-6.774659,0
+            -79.8442341,-6.7748944,0
+            -79.8442439,-6.7750141,0
+            -79.8442495,-6.7750739,0
+            -79.8442531,-6.7751295,0
+            -79.8442568,-6.7751707,0
+            -79.8442628,-6.7752963,0
+            -79.8442662,-6.7753593,0
+            -79.8442705,-6.7754268,0
+            -79.8442953,-6.7759258,0
+            -79.8443015,-6.7760574,0
+            -79.8443046,-6.7761242,0
+            -79.8443084,-6.7761906,0
+            -79.8443262,-6.7765183,0
+            -79.8443291,-6.776544,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Grau: Francisco Bolognesi - Tacna</name>
+        <description><![CDATA[<br><br>Tipo de Línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3325</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8441125,-6.7746766,0
+            -79.8441334,-6.7748233,0
+            -79.8441645,-6.7750853,0
+            -79.8441759,-6.7752634,0
+            -79.8441843,-6.7754885,0
+            -79.844195,-6.7757875,0
+            -79.8442121,-6.7762226,0
+            -79.8442168,-6.7764497,0
+            -79.8442172,-6.7765306,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Grau: Francisco Bolognesi - Las Américas</name>
+        <description><![CDATA[<br><br>Tipo de Línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3325</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8443311,-6.7765643,0
+            -79.8443492,-6.7767641,0
+            -79.8444146,-6.7775049,0
+            -79.8444374,-6.7777619,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Grau: Las Américas - Francisco Bolognesi</name>
+        <description><![CDATA[<br><br>Tipo de Línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3325</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8442191,-6.776551,0
+            -79.8442425,-6.7768419,0
+            -79.8442556,-6.7770043,0
+            -79.8442569,-6.7771904,0
+            -79.8442579,-6.777238,0
+            -79.8442667,-6.7773839,0
+            -79.8442791,-6.7776096,0
+            -79.8442871,-6.7777394,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Grau: Las Américas - Garcilaso de la Vega</name>
+        <description><![CDATA[<br><br>Tipo de Línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3325</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8443636,-6.7778419,0
+            -79.8445664,-6.7790964,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Grau: Garcilaso de la Vega - Paita</name>
+        <description><![CDATA[<br><br>Tipo de Línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3325</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8445686,-6.7791162,0
+            -79.8446759,-6.7798437,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Grau: Paita - A.A. Cáceres</name>
+        <description><![CDATA[<br><br>Tipo de Línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3325</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8446798,-6.7798633,0
+            -79.8450291,-6.7811777,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Grau: A.A. Cáceres - Talara</name>
+        <description><![CDATA[<br><br>Tipo de Línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3325</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8450567,-6.7812935,0
+            -79.8452847,-6.7821535,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Grau: Talara - Pimentel</name>
+        <description><![CDATA[<br><br>Tipo de Línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3325</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8453353,-6.7823376,0
+            -79.8456059,-6.7834356,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Grau: Pimentel - Pacasmayo</name>
+        <description><![CDATA[<br><br>Tipo de Línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3325</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8456107,-6.7834554,0
+            -79.8458467,-6.7843986,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Grau: Pacasmayo - Almte. Villar</name>
+        <description><![CDATA[<br><br>Tipo de Línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3325</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8458532,-6.7844197,0
+            -79.8462727,-6.7860684,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Grau: Almte. Villar - Chirinos</name>
+        <description><![CDATA[<br><br>Tipo de Línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3325</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8462765,-6.7860875,0
+            -79.8464585,-6.7868166,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Grau: Chirinos - Abtao</name>
+        <description><![CDATA[<br><br>Tipo de Línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3325</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8464626,-6.7868348,0
+            -79.846463,-6.786837,0
+            -79.8468197,-6.7883198,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Grau: Abtao - Chinchaysuyo</name>
+        <description><![CDATA[<br><br>Tipo de Línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3325</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8468238,-6.7883391,0
+            -79.8470591,-6.7893049,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Chinchaysuyo: Av. Grau - Av. Sta. Victoria</name>
+        <description><![CDATA[<br><br>Tipo de Línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3325</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8469293,-6.7892305,0
+            -79.8469256,-6.7892295,0
+            -79.84671,-6.789101,0
+            -79.8466205,-6.7890474,0
+            -79.846534,-6.7889978,0
+            -79.8464505,-6.7889509,0
+            -79.8464006,-6.7889266,0
+            -79.8463191,-6.7888916,0
+            -79.8462323,-6.7888603,0
+            -79.8460643,-6.7888031,0
+            -79.8459218,-6.7887565,0
+            -79.8457558,-6.7887029,0
+            -79.8454759,-6.788614,0
+            -79.8452053,-6.7885227,0
+            -79.8450125,-6.7884615,0
+            -79.8449049,-6.7884239,0
+            -79.8448288,-6.7883896,0
+            -79.8447386,-6.788343,0
+            -79.844637,-6.788285,0
+            -79.8445713,-6.7882481,0
+            -79.8444701,-6.7881925,0
+            -79.844395,-6.7881492,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Chinchaysuyo: Av. Sta. Victoria - Amarantos</name>
+        <description><![CDATA[<br><br>Tipo de Línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3325</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8442779,-6.7880886,0
+            -79.8439083,-6.7879534,0
+            -79.8436277,-6.7878512,0
+            -79.843405,-6.787771,0
+            -79.8431469,-6.7876758,0
+            -79.8428904,-6.7875822,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Chinchaysuyo: Amarantos - La libertad</name>
+        <description><![CDATA[<br><br>Tipo de Línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3325</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8427777,-6.787546,0
+            -79.8423624,-6.7874132,0
+            -79.84211,-6.7873319,0
+            -79.8418082,-6.7872277,0
+            -79.8415011,-6.7871215,0
+            -79.841202,-6.7870193,0
+            -79.8409331,-6.7869268,0
+            -79.8406455,-6.7868276,0
+            -79.8403615,-6.7867303,0
+            -79.8400557,-6.7866248,0
+            -79.8397278,-6.7865123,0
+            -79.8393446,-6.7863811,0
+            -79.8391183,-6.7863029,0
+            -79.8388048,-6.7861957,0
+            -79.8384323,-6.7860655,0
+            -79.8380786,-6.785944,0
+            -79.8376853,-6.7858078,0
+            -79.8373105,-6.7856786,0
+            -79.836939,-6.7855501,0
+            -79.8366181,-6.7854396,0
+            -79.8363611,-6.7853501,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Chinchaysuyo: La libertad - Haya de la Torre</name>
+        <description><![CDATA[<br><br>Tipo de Línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3325</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8362886,-6.7853256,0
+            -79.8355901,-6.7850922,0
+            -79.8354218,-6.7850363,0
+            -79.8351854,-6.7849534,0
+            -79.8350305,-6.7848981,0
+            -79.8347197,-6.7847879,0
+            -79.8344867,-6.784707,0
+            -79.8342587,-6.7846328,0
+            -79.8339506,-6.7845266,0
+            -79.8337276,-6.7844504,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Chinchaysuyo: Amarantos - La libertad </name>
+        <description><![CDATA[<br><br>Tipo de Línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3325</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8428875,-6.7872895,0
+            -79.8426758,-6.7872102,0
+            -79.8425878,-6.7871756,0
+            -79.8424963,-6.787145,0
+            -79.8419271,-6.7869524,0
+            -79.8414918,-6.7868042,0
+            -79.8412256,-6.7867109,0
+            -79.8408201,-6.7865729,0
+            -79.8407531,-6.7865392,0
+            -79.840575,-6.786479,0
+            -79.8396728,-6.786171,0
+            -79.8388751,-6.7858939,0
+            -79.8387139,-6.7858403,0
+            -79.8381363,-6.7856522,0
+            -79.8379547,-6.7855944,0
+            -79.8378507,-6.7855565,0
+            -79.8375276,-6.7854381,0
+            -79.8374448,-6.7854085,0
+            -79.8373037,-6.7853592,0
+            -79.8371944,-6.7853209,0
+            -79.8370948,-6.7852859,0
+            -79.8369513,-6.7852383,0
+            -79.8368752,-6.7852147,0
+            -79.8367018,-6.7851591,0
+            -79.8364732,-6.7850842,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Chinchaysuyo: La Libertad - Haya de la Torre </name>
+        <description><![CDATA[<br><br>Tipo de Línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3325</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8363438,-6.7850396,0
+            -79.8359176,-6.7848827,0
+            -79.8355185,-6.7847336,0
+            -79.8350696,-6.7845643,0
+            -79.8348944,-6.7844966,0
+            -79.8344574,-6.7843432,0
+            -79.8344436,-6.7843385,0
+            -79.834284,-6.7842916,0
+            -79.8340148,-6.7842105,0
+            -79.8339997,-6.7842054,0
+            -79.8339652,-6.7841995,0
+            -79.8339246,-6.7841935,0
+            -79.8338934,-6.7841918,0
+            -79.8338642,-6.7841915,0
+            -79.8338461,-6.7841925,0
+            -79.8338264,-6.7841931,0
+            -79.8338093,-6.7841931,0
+            -79.8337982,-6.7841938,0
+            -79.8337831,-6.7841938,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Garcilaso de la Vega: Grau - Sta. Victoria</name>
+        <description><![CDATA[<br><br>Tipo de Línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3325</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8444798,-6.7791282,0
+            -79.8441974,-6.7791786,0
+            -79.8440881,-6.7790651,0
+            -79.8440358,-6.7790115,0
+            -79.8440166,-6.7789938,0
+            -79.8439798,-6.7789732,0
+            -79.8439436,-6.7789532,0
+            -79.8438674,-6.7789296,0
+            -79.8438353,-6.7789223,0
+            -79.8437927,-6.7789113,0
+            -79.8437216,-6.7789053,0
+            -79.84368,-6.7789073,0
+            -79.8436354,-6.7789093,0
+            -79.8436049,-6.7789113,0
+            -79.8435422,-6.7789193,0
+            -79.8435013,-6.7789376,0
+            -79.8434289,-6.7789616,0
+            -79.8433582,-6.7789932,0
+            -79.8432995,-6.7790218,0
+            -79.8432599,-6.7790438,0
+            -79.8432056,-6.7790754,0
+            -79.8431775,-6.7790944,0
+            -79.8431188,-6.7791297,0
+            -79.8430786,-6.779158,0
+            -79.8430494,-6.7791723,0
+            -79.8429985,-6.7792036,0
+            -79.8429619,-6.7792263,0
+            -79.8429019,-6.7792636,0
+            -79.842854,-6.7792929,0
+            -79.8428074,-6.7793215,0
+            -79.8427718,-6.7793418,0
+            -79.8426873,-6.7793871,0
+            -79.8425774,-6.7794453,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Garcilaso de la Vega: Sta. Victoria - Av. José Balta</name>
+        <description><![CDATA[<br><br>Tipo de Línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3325</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8424381,-6.779473,0
+            -79.8422812,-6.7795561,0
+            -79.8422738,-6.7795611,0
+            -79.8422017,-6.7795844,0
+            -79.8421726,-6.7795937,0
+            -79.8421337,-6.7796044,0
+            -79.8420086,-6.7796327,0
+            -79.8419389,-6.7796503,0
+            -79.8417474,-6.7796776,0
+            -79.8416402,-6.7796946,0
+            -79.8413974,-6.7796986,0
+            -79.8413696,-6.7796993,0
+            -79.8412784,-6.779695,0
+            -79.8412043,-6.7796873,0
+            -79.8410558,-6.7796657,0
+            -79.8409733,-6.779653,0
+            -79.8408928,-6.7796387,0
+            -79.8408073,-6.7796177,0
+            -79.8406766,-6.7795741,0
+            -79.8405713,-6.7795345,0
+            -79.8404506,-6.7794925,0
+            -79.8403467,-6.7794476,0
+            -79.8402514,-6.779406,0
+            -79.8401747,-6.7793717,0
+            -79.8400741,-6.7793281,0
+            -79.8399242,-6.7792398,0
+            -79.8398156,-6.7791756,0
+            -79.8397794,-6.7791546,0
+            -79.8396862,-6.7790953,0
+            -79.8396151,-6.7790504,0
+            -79.8394528,-6.7789532,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. José Balta: Garcilaso de la Vega - Nazareth</name>
+        <description><![CDATA[<br><br>Tipo de Línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3325</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8390124,-6.7786585,0
+            -79.8390128,-6.7786538,0
+            -79.8390373,-6.7785746,0
+            -79.839043,-6.778541,0
+            -79.8390443,-6.7785157,0
+            -79.8390383,-6.7784384,0
+            -79.8390289,-6.7783096,0
+            -79.8390192,-6.7781871,0
+            -79.8390085,-6.7780393,0
+            -79.8389991,-6.7779137,0
+            -79.8389867,-6.7777479,0
+            -79.8389598,-6.7773964,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Garcilaso de la Vega: José Balta - Las casuarinas</name>
+        <description><![CDATA[<br><br>Tipo de Línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3325</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8389912,-6.7786649,0
+            -79.8389872,-6.7786622,0
+            -79.8387364,-6.77851,0
+            -79.8384255,-6.7783141,0
+            -79.8382043,-6.7781713,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Garcilaso de la Vega: Las Casuarinas - 7 de enero</name>
+        <description><![CDATA[<br><br>Tipo de Línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3325</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8381857,-6.7781601,0
+            -79.8380023,-6.7780504,0
+            -79.8378256,-6.7779462,0
+            -79.8376302,-6.7778296,0
+            -79.837303,-6.7776362,0
+            -79.8372053,-6.7775772,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Garcilaso de la Vega: 7 de enero - Óvalo</name>
+        <description><![CDATA[<br><br>Tipo de Línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3325</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8371837,-6.777566,0
+            -79.8369316,-6.7774059,0
+            -79.8367875,-6.777315,0
+            -79.8366664,-6.7772381,0
+            -79.8364961,-6.7771302,0
+            -79.836417,-6.7770799,0
+            -79.8363134,-6.7770173,0
+            -79.8361182,-6.7768981,0
+            -79.8359402,-6.7767903,0
+            -79.835898,-6.7767693,0
+            -79.8358779,-6.7767596,0
+            -79.83584,-6.7767453,0
+            -79.8357873,-6.7767267,0
+            -79.8356106,-6.7767097,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Miguel de Cervantes: Sáenz Peña - Sarmiento</name>
+        <description><![CDATA[<br><br>Tipo de Línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-3325</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8353231,-6.7766668,0
+            -79.8351463,-6.7766522,0
+            -79.8349884,-6.7766419,0
+            -79.8348217,-6.7766299,0
+            -79.8346598,-6.7766172,0
+            -79.8344583,-6.7766083,0
+            -79.8342813,-6.7766003,0
+            -79.834186,-6.7765959,0
+            -79.8340519,-6.7765899,0
+            -79.8339057,-6.7765822,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>ZONA ESTE</name>
+      <Placemark>
+        <name>Mariscal Nieto: Sáenz Peña - Sarmiento</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8355707,-6.7755405,0
+            -79.8341448,-6.7751915,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Mariscal Nieto: Sarmiento - Quiñones</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8341264,-6.7751877,0
+            -79.8335866,-6.7750572,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Mariscal Nieto: Quiñones - Jorge Basadre</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8335668,-6.7750512,0
+            -79.8334893,-6.7750358,0
+            -79.8322333,-6.7747032,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Mariscal Nieto: Tarata - Jorge Basadre</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8321788,-6.7746888,0
+            -79.8309254,-6.7744082,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Mariscal Nieto: Jorge Basadre - Tarata</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8321667,-6.7747787,0
+            -79.8309016,-6.774516,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Mariscal Nieto: Óvalo Jorge Chávez - Tarata</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8307886,-6.7743772,0
+            -79.8296414,-6.7741552,0
+            -79.8295327,-6.774098,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Mariscal Nieto: Tarata - Óvalo Jorge Chávez</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8307584,-6.7744917,0
+            -79.8294872,-6.7742258,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Jorge Basadre: Mariscal Nieto - Tarata</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8321844,-6.7746807,0
+            -79.8321715,-6.7744659,0
+            -79.8321463,-6.7741376,0
+            -79.8321047,-6.7737401,0
+            -79.8320786,-6.7734844,0
+            -79.832051,-6.7732331,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Jorge Basadre: Tarata - Francisco Cabrera</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8320381,-6.7731033,0
+            -79.8320381,-6.77309,0
+            -79.8319295,-6.7722124,0
+            -79.831896,-6.7719202,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Jorge Basadre: Francisco Cabrera - Vicente de la Vega</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8318937,-6.7718947,0
+            -79.8318937,-6.771891,0
+            -79.8318793,-6.7717259,0
+            -79.8318695,-6.7716187,0
+            -79.8318578,-6.7714725,0
+            -79.8318471,-6.7713573,0
+            -79.8318377,-6.7712358,0
+            -79.8318246,-6.771074,0
+            -79.8318138,-6.7709563,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Vicente De La Vega: Jorge Basadre - Pje. Cassinelli</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8318309,-6.7709393,0
+            -79.8324143,-6.7708654,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Vicente De La Vega: Pje. Cassinelli - José Quiñones</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8324314,-6.7708621,0
+            -79.8325387,-6.7708504,0
+            -79.8326899,-6.7708324,0
+            -79.8328341,-6.7708151,0
+            -79.8330715,-6.7707871,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. José Quiñones: Vicente de la Vega - Leoncio Prado</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8330715,-6.7707871,0
+            -79.8330508,-6.7706121,0
+            -79.8330333,-6.7704609,0
+            -79.8330142,-6.7703051,0
+            -79.8329958,-6.770146,0
+            -79.8329767,-6.7699858,0
+            -79.8329532,-6.7697924,0
+            -79.8329363,-6.7696413,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. José Quiñones: Leoncio Prado - Pedro Ruiz</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8329342,-6.7696227,0
+            -79.8329201,-6.7694775,0
+            -79.8329047,-6.7693137,0
+            -79.8328882,-6.7691429,0
+            -79.8328732,-6.7690037,0
+            -79.8328554,-6.7688383,0
+            -79.8328363,-6.7686581,0
+            -79.8328263,-6.768564,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. José Quiñones: Pedro Ruiz - Arica</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8328246,-6.768546,0
+            -79.8328037,-6.7683506,0
+            -79.832789,-6.7682131,0
+            -79.8327685,-6.7680426,0
+            -79.8327461,-6.7678581,0
+            -79.8327176,-6.7676071,0
+            -79.8326898,-6.7673459,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. José Quiñones: Arica - Amazonas</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8326878,-6.7673259,0
+            -79.832659,-6.7670718,0
+            -79.8326077,-6.7666284,0
+            -79.8325856,-6.7664343,0
+            -79.8325639,-6.766258,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. José Quiñones: Amazonas - Francisco Orellana</name>
+        <description><![CDATA[<br><br>Tipo de Linea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de Linea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8325619,-6.7662397,0
+            -79.8325466,-6.7661174,0
+            -79.8325271,-6.7659663,0
+            -79.8325087,-6.7657315,0
+            -79.8324912,-6.7654878,0
+            -79.8324864,-6.7654412,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>ZONA OESTE</name>
+      <Placemark>
+        <name>Av. V. Belaunde: Las Cautivas - Av. del Progreso</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.873924,-6.772281,0
+            -79.873872,-6.772294,0
+            -79.873579,-6.772316,0
+            -79.873184,-6.772355,0
+            -79.872803,-6.77239,0
+            -79.87261,-6.772409,0
+            -79.872514,-6.77242,0
+            -79.872409,-6.77243,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. V. Belaunde: Av. del Progreso - Las Cautivas</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.873954,-6.772336,0
+            -79.873732,-6.772362,0
+            -79.873543,-6.772382,0
+            -79.873227,-6.772416,0
+            -79.872967,-6.772444,0
+            -79.872636,-6.77248,0
+            -79.872416,-6.772504,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. V. Belaunde: Orbegoso - Las Cautivas</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.872387,-6.772431,0
+            -79.8722226,-6.7724481,0
+            -79.8720315,-6.7724657,0
+            -79.8717003,-6.7724954,0
+            -79.8713999,-6.7725227,0
+            -79.871299,-6.772532,0
+            -79.8710361,-6.7725749,0
+            -79.8708105,-6.7726016,0
+            -79.8705312,-6.7726282,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. V. Belaunde: Las Cautivas - Orbegoso</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.872396,-6.772506,0
+            -79.8722186,-6.772526,0
+            -79.8719004,-6.7725589,0
+            -79.8715688,-6.7725939,0
+            -79.8712185,-6.7726285,0
+            -79.8708808,-6.7726621,0
+            -79.8705362,-6.7726984,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. V. Belaunde: Óvalo - Orbegoso</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8705115,-6.7726303,0
+            -79.8702221,-6.7726561,0
+            -79.8700846,-6.7726698,0
+            -79.8698362,-6.7727041,0
+            -79.8695998,-6.7727374,0
+            -79.8695019,-6.7727514,0
+            -79.8693909,-6.7727743,0
+            -79.8693768,-6.7727773,0
+            -79.8693071,-6.7728003,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. V. Belaunde: Orbegoso - Óvalo</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8705158,-6.7727009,0
+            -79.8703504,-6.7727191,0
+            -79.8701553,-6.7727394,0
+            -79.8700792,-6.7727484,0
+            -79.8698428,-6.772784,0
+            -79.8697557,-6.772798,0
+            -79.8696058,-6.7728336,0
+            -79.8694603,-6.7728892,0
+            -79.8693154,-6.7729355,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Zarumilla: Óvalo - Juan Tomis Stack</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8691693,-6.7729651,0
+            -79.8691169,-6.7730591,0
+            -79.8689178,-6.7733638,0
+            -79.8688182,-6.7735389,0
+            -79.8687264,-6.7736851,0
+            -79.8686121,-6.7738798,0
+            -79.8684592,-6.7741395,0
+            -79.868307,-6.7744042,0
+            -79.8681266,-6.7746702,0
+            -79.8680355,-6.7748199,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Juan Tomis Stack: Av. Agustín Vallejos - Trinidad</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8712515,-6.7771067,0
+            -79.8710658,-6.7769908,0
+            -79.8708627,-6.7768648,0
+            -79.8706511,-6.7767296,0
+            -79.870463,-6.7766181,0
+            -79.870277,-6.7765026,0
+            -79.8701938,-6.7764523,0
+            -79.8701261,-6.7764094,0
+            -79.8699625,-6.7763125,0
+            -79.8697871,-6.7762079,0
+            -79.8696879,-6.7761493,0
+            -79.8696124,-6.7761021,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Juan Tomis Stack: Trinidad - Los Robles</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8695941,-6.7760914,0
+            -79.8693946,-6.775967,0
+            -79.8692404,-6.7758695,0
+            -79.8689316,-6.775676,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Juan Tomis Stack: Los Robles - Los Cedros</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8689156,-6.7756673,0
+            -79.8687029,-6.7755344,0
+            -79.8684012,-6.7753463,0
+            -79.8682097,-6.7752271,0
+            -79.8681118,-6.7751655,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Juan Tomis Stack: Los Cedros - Los Higuerones</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8680961,-6.775156,0
+            -79.8678503,-6.7750017,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Zarumilla: Juan Tomis Stack - Óvalo</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.869129,-6.7729272,0
+            -79.8690247,-6.7730923,0
+            -79.8688959,-6.7732997,0
+            -79.8687836,-6.7734902,0
+            -79.8686847,-6.7736593,0
+            -79.8685767,-6.7738381,0
+            -79.868385,-6.7741537,0
+            -79.8683323,-6.7742376,0
+            -79.86828,-6.7743308,0
+            -79.8681395,-6.7745549,0
+            -79.8680175,-6.7747457,0
+            -79.867989,-6.7747903,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Juan Tomis Stack: Los Higuerones - El Carmen</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8678353,-6.7749928,0
+            -79.8676738,-6.7748913,0
+            -79.867535,-6.7748058,0
+            -79.8673674,-6.7747006,0
+            -79.8671964,-6.7745943,0
+            -79.8666395,-6.7742457,0
+            -79.8668853,-6.7743999,0
+            -79.866717,-6.7742954,0
+            -79.8664534,-6.7741376,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Elvira García y García: Soberanía - Emiliano Niño</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8626245,-6.7729466,0
+            -79.862349,-6.7729745,0
+            -79.8620613,-6.7730048,0
+            -79.8618394,-6.7730268,0
+            -79.8617428,-6.7730378,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Juan Tomis Stack: Huamán P. de Ayala - Sarmiento de Gamboa</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8663097,-6.7740426,0
+            -79.8661922,-6.7739719,0
+            -79.8660249,-6.7738727,0
+            -79.8658019,-6.7737369,0
+            -79.8655873,-6.773607,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Juan Tomis Stack: Sarmiento de Gamboa - Sta. Cruz de Pachacútec</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8655716,-6.773597,0
+            -79.8653586,-6.7734562,0
+            -79.8652436,-6.7733816,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Juan Tomis Stack: Sta. Cruz de Pachacútec - Av. El Ejército</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8652277,-6.773371,0
+            -79.8648466,-6.7731233,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Tramo: Av. El Ejército - Soberanía</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.86483,-6.7731135,0
+            -79.8646449,-6.7729956,0
+            -79.864478,-6.7728887,0
+            -79.8642577,-6.7727472,0
+            -79.8639214,-6.7727862,0
+            -79.863615,-6.7728211,0
+            -79.8632525,-6.7728628,0
+            -79.8627875,-6.7729257,0
+            -79.8626433,-6.7729447,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Elvira García y García: Emiliano Niño - Nogales</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.861725,-6.7730395,0
+            -79.8614505,-6.7730634,0
+            -79.8610951,-6.7730953,0
+            -79.860906,-6.7731143,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Elvira García y García: Nogales - Precursor Miranda</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8608881,-6.7731157,0
+            -79.8606588,-6.7731357,0
+            -79.8604757,-6.7731537,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Elvira García y García: Precursor Miranda - Las Garzas</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8602846,-6.7731705,0
+            -79.8600492,-6.7731941,0
+            -79.8597917,-6.7732181,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Elvira García y García: Las Garzas - Los Naranjos</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8597739,-6.7732201,0
+            -79.8594703,-6.7732521,0
+            -79.8592219,-6.7732771,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Elvira García y García: Los Naranjos - Los Laureles</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.859203,-6.7732788,0
+            -79.8587457,-6.7733307,0
+            -79.8586716,-6.7733387,0
+            -79.8584299,-6.773357,0
+            -79.85816,-6.773377,0
+            -79.8580983,-6.7733807,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Elvira García y García: Los Laureles - Vicente Russo</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8580787,-6.7733831,0
+            -79.8578289,-6.7734097,0
+            -79.8575265,-6.7734413,0
+            -79.8572314,-6.7734756,0
+            -79.8570101,-6.7734989,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Elvira García y García: Vicente Russo - Arequipa</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8569899,-6.7735007,0
+            -79.8568098,-6.7735194,0
+            -79.8565419,-6.7735457,0
+            -79.8563364,-6.773566,0
+            -79.8559994,-6.7735986,0
+            -79.8559448,-6.7736033,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Elvira García y García: Arequipa - Cajamarca Sur</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8559262,-6.7736047,0
+            -79.8556659,-6.7736311,0
+            -79.8553698,-6.7736594,0
+            -79.8548495,-6.77371,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Elvira García y García: Cajamarca Sur - Piura</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8548307,-6.7737115,0
+            -79.8545085,-6.7737435,0
+            -79.8541783,-6.7737748,0
+            -79.8537531,-6.7738157,0
+            -79.8537183,-6.7738191,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Elvira García y García: Piura - Tumbes Sur</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8536986,-6.7738212,0
+            -79.8534801,-6.7738438,0
+            -79.8530905,-6.7738827,0
+            -79.8526771,-6.7739257,0
+            -79.8526285,-6.7739303,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Elvira García y García: Tumbes Sur - Federico Villarreal</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8526092,-6.7739322,0
+            -79.8520134,-6.7739933,0
+            -79.8516886,-6.7740266,0
+            -79.8514425,-6.7740512,0
+            -79.8510227,-6.7740942,0
+            -79.8505362,-6.7741438,0
+            -79.8500313,-6.7741957,0
+            -79.8496276,-6.7742367,0
+            -79.8483801,-6.7743682,0
+            -79.8480194,-6.7744014,0
+            -79.8476137,-6.7744417,0
+            -79.8473904,-6.7744607,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Federico Villarreal: Av. Elvira García - Las Magnolias</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8470827,-6.7744813,0
+            -79.8470764,-6.7743765,0
+            -79.8470697,-6.7742497,0
+            -79.8470576,-6.7740489,0
+            -79.8470493,-6.7739124,0
+            -79.8470308,-6.773721,0
+            -79.847013,-6.7735392,0
+            -79.8469963,-6.773374,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Federico Villarreal: Las Magnolias - Av Elvira García</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8473759,-6.7744508,0
+            -79.8473655,-6.7743213,0
+            -79.8473531,-6.7741818,0
+            -79.8473404,-6.7740386,0
+            -79.8473263,-6.7738775,0
+            -79.8473126,-6.7737207,0
+            -79.8472965,-6.7735292,0
+            -79.8472804,-6.7733515,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Federico Villarreal: Av Manuel Arteaga - Las Magnolias</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8472778,-6.7733284,0
+            -79.8472674,-6.7732389,0
+            -79.8472483,-6.7730658,0
+            -79.8472238,-6.7728314,0
+            -79.847201,-6.7726103,0
+            -79.8471699,-6.772328,0
+            -79.8471578,-6.7722125,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Federico Villarreal: Las Magnolias - Av. Manuel Arteaga</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8469945,-6.7733482,0
+            -79.846981,-6.7732353,0
+            -79.8469588,-6.7730485,0
+            -79.8469334,-6.7728314,0
+            -79.8469163,-6.7726929,0
+            -79.8469015,-6.7725234,0
+            -79.8468752,-6.7722481,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Manuel Arteaga: Federico Villarreal - Pascual Saco</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8468591,-6.7722454,0
+            -79.8464266,-6.7722914,0
+            -79.8462261,-6.7723124,0
+            -79.8459813,-6.7723387,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Pascual Saco: Av. Manuel Arteaga - Av. Salaverry</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8459789,-6.7723215,0
+            -79.8459669,-6.7722119,0
+            -79.8459454,-6.7720158,0
+            -79.8459219,-6.7718034,0
+            -79.8459042,-6.7716403,0
+            -79.8458817,-6.7714319,0
+            -79.8458582,-6.7712105,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Elvira García y García</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8632293,-6.7728473,0
+            -79.8632451,-6.7728306,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Elvira García y García</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8632451,-6.7728306,0
+            -79.8633291,-6.7727361,0
+            -79.8634052,-6.7726462,0
+            -79.8634981,-6.772541,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Tramo Óvalo</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8635436,-6.7722075,0
+            -79.8635422,-6.7722398,0
+            -79.8635489,-6.7722784,0
+            -79.8635647,-6.772312,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Tramo Óvalo</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8636415,-6.7720574,0
+            -79.8636682,-6.7720472,0
+            -79.863697,-6.7720406,0
+            -79.8637212,-6.7720389,0
+            -79.8637453,-6.7720402,0
+            -79.8637647,-6.7720439,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Unión: Óvalo - Marte</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8637812,-6.7720429,0
+            -79.8638579,-6.7719156,0
+            -79.8639588,-6.7717451,0
+            -79.864043,-6.771596,0
+            -79.8641134,-6.7714741,0
+            -79.8642046,-6.771312,0
+            -79.8642636,-6.7712101,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Unión: Marte - Napo</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8642736,-6.7711941,0
+            -79.8643548,-6.771057,0
+            -79.8643819,-6.771013,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Unión: Napo - Sgto. Lores</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8643917,-6.7709977,0
+            -79.864504,-6.7708101,0
+            -79.8646042,-6.7706463,0
+            -79.8647367,-6.7704239,0
+            -79.864908,-6.7701396,0
+            -79.8650367,-6.7699275,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Unión: Sgto. Lores - Sendero</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8650478,-6.7699114,0
+            -79.8651648,-6.7697299,0
+            -79.8652033,-6.7696654,0
+            -79.8652352,-6.7695791,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Unión</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8652424,-6.7695602,0
+            -79.8652552,-6.7695352,0
+            -79.8652823,-6.7695009,0
+            -79.865291,-6.7694912,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Unión: Marte - Óvalo</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8638623,-6.7720975,0
+            -79.8639073,-6.772013,0
+            -79.8639975,-6.7718399,0
+            -79.8640263,-6.771782,0
+            -79.8640578,-6.771732,0
+            -79.8641812,-6.7715386,0
+            -79.8642684,-6.7714014,0
+            -79.8643546,-6.7712659,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Unión: Napo - Marte</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8643645,-6.7712505,0
+            -79.864476,-6.771073,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Unión: Sgto. Lores - Napo</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8644878,-6.7710552,0
+            -79.8645737,-6.7709187,0
+            -79.8646525,-6.7707922,0
+            -79.864745,-6.7706477,0
+            -79.864805,-6.7705511,0
+            -79.8649049,-6.7703917,0
+            -79.8650018,-6.7702405,0
+            -79.8651128,-6.7700614,0
+            -79.865152,-6.7700018,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Unión: Sendero - Sgto. Lores</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8651612,-6.7699854,0
+            -79.8652216,-6.769872,0
+            -79.8652984,-6.7697288,0
+            -79.8653138,-6.7697008,0
+            -79.8653386,-6.7696033,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Unión</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8653335,-6.7695814,0
+            -79.8652939,-6.7694907,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Unión: Cruce - Av. Salaverry</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8652888,-6.7694707,0
+            -79.8652974,-6.7693543,0
+            -79.8653048,-6.7692331,0
+            -79.8653071,-6.7691861,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Salaverry: Penas - Unión</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8653582,-6.7690275,0
+            -79.8655854,-6.7690025,0
+            -79.8657939,-6.7689775,0
+            -79.8660176,-6.7689522,0
+            -79.8662888,-6.7689199,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Salaverry: Tumbes - Penas</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8663078,-6.7689178,0
+            -79.8665382,-6.7688959,0
+            -79.8667853,-6.7688725,0
+            -79.8669666,-6.7688552,0
+            -79.8673143,-6.7688209,0
+            -79.8677173,-6.7687833,0
+            -79.8678347,-6.768771,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Salaverry: Zarumilla - Tumbes</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8680117,-6.7687492,0
+            -79.8681591,-6.7687298,0
+            -79.8684133,-6.7687011,0
+            -79.8686587,-6.7686708,0
+            -79.8687613,-6.7686585,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Salaverry: Unión - Herman Meiner</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.865334,-6.7690305,0
+            -79.8652198,-6.7690454,0
+            -79.8649,-6.7690777,0
+            -79.8646351,-6.7691046,0
+            -79.8644487,-6.7691243,0
+            -79.8642854,-6.7691399,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Salaverry: Av. Herman Meiner - Juan XXIII</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8642642,-6.7691423,0
+            -79.863995,-6.7691686,0
+            -79.8635997,-6.7692109,0
+            -79.863247,-6.7692472,0
+            -79.8630224,-6.7692698,0
+            -79.8626603,-6.7693005,0
+            -79.8622459,-6.7693348,0
+            -79.8621634,-6.7693418,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Salaverry: Juan XXIII - Insurrección</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8621437,-6.7693435,0
+            -79.8619479,-6.7693619,0
+            -79.8616947,-6.7693852,0
+            -79.8614815,-6.7694051,0
+            -79.8612361,-6.7694338,0
+            -79.8609853,-6.7694611,0
+            -79.8607298,-6.7694897,0
+            -79.8604864,-6.769517,0
+            -79.8602832,-6.769539,0
+            -79.8600724,-6.7695629,0
+            -79.8599902,-6.7695743,0
+            -79.8598605,-6.7696137,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Herman Meiner: Av. Salaverry - Av. Confraternidad</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.864266,-6.7691233,0
+            -79.8642554,-6.7690089,0
+            -79.8642416,-6.7688647,0
+            -79.8642219,-6.7686437,0
+            -79.8641967,-6.768375,0
+            -79.8641746,-6.7681316,0
+            -79.8641535,-6.7679105,0
+            -79.86413,-6.7676488,0
+            -79.8640945,-6.7672693,0
+            -79.8640753,-6.7670642,0
+            -79.8640586,-6.7668724,0
+            -79.8640321,-6.7665874,0
+            -79.8640066,-6.7662668,0
+            -79.8639885,-6.7660081,0
+            -79.8639855,-6.7659798,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Herman Meiner: Av. Confraternidad - Ciro Alegría</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8639755,-6.7658725,0
+            -79.8639627,-6.7657725,0
+            -79.8639326,-6.7655155,0
+            -79.8639252,-6.7654562,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Hermán Meiner: Ciro Alegría - Manuel Gonzales Prada</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8639236,-6.7654377,0
+            -79.8639152,-6.7653395,0
+            -79.8639031,-6.7652047,0
+            -79.8638847,-6.7650149,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av. Herman Meiner: Manuel Gonzales Prada - Tradiciones Peruanas</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8638826,-6.7649962,0
+            -79.8638706,-6.764889,0
+            -79.8638512,-6.7647033,0
+            -79.8638461,-6.7646613,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Av Herman Meiner: Tradiciones Peruanas - Panamericana Norte</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.863844,-6.7646419,0
+            -79.8638244,-6.7645045,0
+            -79.8637992,-6.7643354,0
+            -79.8637841,-6.7641762,0
+            -79.8637707,-6.7640208,0
+            -79.8637553,-6.7638453,0
+            -79.8637496,-6.7637621,0
+            -79.8637536,-6.7636902,0
+            -79.8637647,-6.7636562,0
+            -79.8637942,-6.7635713,0
+            -79.8638592,-6.7634002,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Prol. Cieza de León: Vía de evitamiento - Sta. Lucía</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8655909,-6.791098,0
+            -79.8655436,-6.7908794,0
+            -79.8655031,-6.7906967,0
+            -79.8654658,-6.7905265,0
+            -79.8654236,-6.7903364,0
+            -79.8653901,-6.7901866,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Prol. Cieza de León: Sta. Lucía - Sta. Juaquina</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.865386,-6.7901641,0
+            -79.8653395,-6.7899452,0
+            -79.8653183,-6.789843,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Prol. Cieza de León: Sta Juaquina - Sta. Mónica</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.865315,-6.7898258,0
+            -79.8652857,-6.7896916,0
+            -79.8652445,-6.7895052,0
+            -79.8652294,-6.7894319,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Prol. Cieza de León: Sta Mónica - Sta. Justina</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8652257,-6.7894148,0
+            -79.865189,-6.7892355,0
+            -79.8651576,-6.7890801,0
+            -79.8651241,-6.7889227,0
+            -79.8650519,-6.7885966,0
+            -79.8650294,-6.7884914,0
+            -79.8649741,-6.7882483,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Prol. Cieza de León: Sta. Justina - Sta. María Eufrasia</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8649708,-6.78823,0
+            -79.8649433,-6.7881084,0
+            -79.8649155,-6.7879873,0
+            -79.8648726,-6.7878002,0
+            -79.864834,-6.7876317,0
+            -79.8647961,-6.7874336,0
+            -79.8647592,-6.7872455,0
+            -79.8647281,-6.7870844,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Prol. Cieza de León: Sta. María Eufrasia - Prol. Av. Bolognesi</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8647247,-6.7870683,0
+            -79.864673,-6.7868599,0
+            -79.8646512,-6.786772,0
+            -79.8646026,-6.7865699,0
+            -79.8645486,-6.7863528,0
+            -79.864505,-6.7861714,0
+            -79.8644749,-6.7860522,0
+            -79.8644491,-6.785919,0
+            -79.8644122,-6.7857402,0
+            -79.8643827,-6.7855931,0
+            -79.8643562,-6.7854606,0
+            -79.8643227,-6.7852911,0
+            -79.8643022,-6.7851976,0
+            -79.8642797,-6.785106,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Pedro Cieza de León: Prol. Av. Bolognesi - Espiga de oro</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.864314,-6.7849216,0
+            -79.8642814,-6.7847721,0
+            -79.8642418,-6.7845956,0
+            -79.8641955,-6.7843892,0
+            -79.8641744,-6.7842933,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Pedro Cieza de León: Espiga de Oro - Armando Alva Díaz</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8641712,-6.7842757,0
+            -79.8641422,-6.7841221,0
+            -79.8641174,-6.7839886,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Pedro Cieza de León: Armando Alva Díaz - Los Rosales</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8641125,-6.7839644,0
+            -79.8640917,-6.7838692,0
+            -79.8640572,-6.7837034,0
+            -79.8640133,-6.783499,0
+            -79.863912,-6.7830239,0
+            -79.8638135,-6.7825489,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Pedro Cieza de León: Los Rosales - Cruce</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.863809,-6.7825248,0
+            -79.8637992,-6.7824806,0
+            -79.863768,-6.7823244,0
+            -79.8637543,-6.7822575,0
+            -79.8637214,-6.7820561,0
+            -79.8637083,-6.7819855,0
+            -79.8636996,-6.7819482,0
+            -79.8636832,-6.7819079,0
+            -79.8636762,-6.7818953,0
+            -79.8636832,-6.7819079,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Prol. Cieza de León: Sta. Lucía - Vía de evitamiento</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8656915,-6.7909222,0
+            -79.8656553,-6.7907976,0
+            -79.8655933,-6.7905805,0
+            -79.8655464,-6.7904171,0
+            -79.8655024,-6.7902596,0
+            -79.8654582,-6.7901051,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Prol. Cieza de León: Sta. Juaquina - Sta. Lucía</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8654525,-6.7900839,0
+            -79.8654295,-6.7899665,0
+            -79.865402,-6.789829,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Prol. Cieza de León: Sta Mónica - Sta. Juaquina</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8653984,-6.7898113,0
+            -79.8653714,-6.7896891,0
+            -79.8653339,-6.7895223,0
+            -79.8653111,-6.7894194,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Prol. Cieza de León: Sta. Priscila - Sta. Mónica</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.865307,-6.7894011,0
+            -79.8652883,-6.7892972,0
+            -79.8652511,-6.7891011,0
+            -79.8652307,-6.7889912,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Prol. Cieza de León: Sta. Verónica - Sta. Priscila</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8652268,-6.7889731,0
+            -79.8651865,-6.7888314,0
+            -79.8651359,-6.7886529,0
+            -79.8651272,-6.7886226,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Prol. Cieza de León: Sta. Justina - Sta. Verónica</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.865122,-6.7886047,0
+            -79.8651009,-6.7885018,0
+            -79.8650616,-6.7883207,0
+            -79.8650429,-6.7882328,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Prol. Cieza de León: Sta. María Eufrasia - Sta. Justina</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8650391,-6.7882155,0
+            -79.8650039,-6.7880343,0
+            -79.8649597,-6.7878179,0
+            -79.8649157,-6.7875952,0
+            -79.8648748,-6.7873698,0
+            -79.8648323,-6.7871414,0
+            -79.8648168,-6.7870612,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Prol. Cieza de León: Prol. Av. Bolognesi - Sta. María Eufrasia</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8648137,-6.7870433,0
+            -79.8647865,-6.7869188,0
+            -79.8647413,-6.786722,0
+            -79.8647044,-6.7865572,0
+            -79.8646561,-6.7863441,0
+            -79.8646055,-6.7861167,0
+            -79.8645508,-6.78587,0
+            -79.8645042,-6.785668,0
+            -79.8644496,-6.7854249,0
+            -79.864411,-6.7852678,0
+            -79.8643926,-6.7852079,0
+            -79.8643445,-6.785137,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Pedro Cieza de León: Espiga de Oro - Prol. Av. Bolognesi</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8643297,-6.7849292,0
+            -79.8643052,-6.7848183,0
+            -79.8642656,-6.7846385,0
+            -79.8642224,-6.7844481,0
+            -79.8641892,-6.7842946,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Pedro Cieza de León: Armando Alva Díaz - Espiga de Oro</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8641852,-6.784276,0
+            -79.864167,-6.784181,0
+            -79.8641318,-6.7839926,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Pedro Cieza de León: Los Rosales - Armando Alva Díaz</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8641266,-6.7839647,0
+            -79.8641006,-6.7838463,0
+            -79.8640648,-6.7836766,0
+            -79.8640289,-6.7835061,0
+            -79.863993,-6.7833426,0
+            -79.8639538,-6.7831579,0
+            -79.8639078,-6.7829424,0
+            -79.8638629,-6.7827287,0
+            -79.8638254,-6.7825459,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>Pedro Cieza de León: Cruce - Los Rosales</name>
+        <description><![CDATA[<br><br>Tipo de línea: Tramo]]></description>
+        <styleUrl>#line-F9A825-2938</styleUrl>
+        <ExtendedData>
+          <Data name="Tipo de línea">
+            <value>Tramo</value>
+          </Data>
+        </ExtendedData>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            -79.8638212,-6.782523,0
+            -79.8638016,-6.7824272,0
+            -79.8637697,-6.7822707,0
+            -79.8637652,-6.7822426,0
+            -79.8637515,-6.7821594,0
+            -79.8637437,-6.7821081,0
+            -79.8637236,-6.7819946,0
+            -79.8637132,-6.781951,0
+            -79.8637062,-6.781932,0
+            -79.8636925,-6.7818954,0
+            -79.8636888,-6.781889,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
